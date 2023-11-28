@@ -1,6 +1,3 @@
-<header>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</header>
 <div>
   <a href="https://github.com/eiki-gushiken">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eiki-gushiken&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +8,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <i class="devicon-github-original-wordmark"></i>
 </div>
  
  <br>
